@@ -52,6 +52,13 @@ La base de datos contiene 15.000 registros individuales relacionados con el estu
  * owner_satisfaction_rating: Rating de satisfacción del dueño (1-5)
 
  **Conclusiones** :
+
 1. Comida y veterinario es en lo que más se gasta con cualquier mascota, pero solo los perros y los gatos tienen gastos extra como peluquería y entrenamiento.
 
-2.Los puntos atipicos que salen en los gráficos no son errores de la tabla, sino cosas normales como perros de gran tamaño o emergencias médicas que resultan muy caras y son usuales.
+2. Los puntos atipicos que salen en los gráficos no son errores de la tabla, sino cosas normales como perros de gran tamaño o emergencias médicas que resultan muy caras y son usuales.
+
+3. Los dueños de perros y gatos son mucho más juiciosos con las vacunas, el microchip y los seguros que quienes tienen mascotas exóticas o pequeñas.
+
+4. Las adopciones no son iguales todo el año; suben mucho en dos épocas: primavera y vacaciones de diciembre.
+
+5. Mientras más vieja es la mascota, mucho más probable es que tenga una enfermedad crónica.
