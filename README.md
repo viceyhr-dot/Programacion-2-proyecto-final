@@ -50,3 +50,8 @@ La base de datos contiene 15.000 registros individuales relacionados con el estu
  * annual_insurance_cost_usd: Costo anual del seguro (en USD)
  * total_annual_cost_usd: Costo anual general (en USD)
  * owner_satisfaction_rating: Rating de satisfacción del dueño (1-5)
+
+ **Conclusiones** :
+1. Comida y veterinario es en lo que más se gasta con cualquier mascota, pero solo los perros y los gatos tienen gastos extra como peluquería y entrenamiento.
+
+2.Los puntos atipicos que salen en los gráficos no son errores de la tabla, sino cosas normales como perros de gran tamaño o emergencias médicas que resultan muy caras y son usuales.
